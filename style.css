@@ -1,0 +1,15 @@
+#countrys {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.country {
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
+.country-name {
+    color: crimson;
+    font-size: 28px;
+}
